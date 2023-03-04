@@ -1,0 +1,35 @@
+#1423
+Mikor volt a mohacsi csata?
+A: 1523
+B: 1643
+C: Nem is volt ilyen csata
+D: 1526
+helyes valasz: D
+#1
+Mi ch(x) derivaltja?
+A: -sh(x)
+B: sin(x)
+C: Nem letezik a derivaltja
+D: sh(x)
+helyes valasz: D
+#10
+Ki nyerte a 2021-es Magyar nagydijat?
+A: Esteban Ocon
+B: Lewis Hamilton
+C: Max Verstappen
+D: Daniel Ricciardo
+helyes valasz: A
+#60
+Mi Szamtud zh-n a helyes megoldas?
+A: 42
+B: 420
+C: 40
+D: Nincs helyes megoldas SZA zh-n.
+helyes valasz: A
+#420
+Melyik csapat nyeri a 2020-2021 UEFA Bajnokok ligajat?
+A: FTC
+B: Manchester City
+C: PSG
+D: Chelsea
+helyes valasz: B
